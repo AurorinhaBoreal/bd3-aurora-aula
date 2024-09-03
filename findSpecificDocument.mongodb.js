@@ -4,5 +4,5 @@ const collection = "LIVRARIA"
 use(database)
 
 db[collection].find(
-    {"categoria": "Fantasia Heroica"}
+    {categoria: "Fantasia Heroica"}
 );

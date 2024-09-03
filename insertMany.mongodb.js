@@ -52,7 +52,7 @@ db[collection].insertMany(
     },
     {
         "codigo":"8",
-        "titulo": "O Senho dos anéis: As Duas Torres",
+        "titulo": "O Senhor dos anéis: As Duas Torres",
         "autor": "J.R.R Tolkien",
         "descricao": "Após a captura de Merry e Pippy pelos orcs, a Sociedade do Anel é dissolvida. Frodo e Sam seguem sua jornada rumo à Montanha da Perdição para destruir o anel e descobrem que estão sendo perseguidos pelo misterioso Gollum. Enquanto isso, Aragorn, o elfo e arqueiro Legolas e o anão Gimli partem para resgatar os hobbits sequestrados e chegam ao reino de Rohan, onde o rei Theoden foi vítima de uma maldição mortal de Saruman.",
         "imagem":"/livros/duas_torres.jpg",
@@ -60,8 +60,8 @@ db[collection].insertMany(
         "categoria":"Fantasia Heroica"
     },
     {
-        "codigo":"8",
-        "titulo": "O Senho dos anéis: O Retorno do Rei",
+        "codigo":"9",
+        "titulo": "O Senhor dos anéis: O Retorno do Rei",
         "autor": "J.R.R Tolkien",
         "descricao":"Sauron planeja um grande ataque a Minas Tirith, capital de Gondor, o que faz com que Gandalf e Pippin partam para o local na intenção de ajudar a resistência. Frodo, Sam e Gollum seguem sua viagem rumo à Montanha da Perdição para destruir o anel.",
         "imagem":"/livros/retorno_rei.jpg",

@@ -5,5 +5,5 @@ const collection = "LIVRARIA"
 use(database)
 
 db[collection].find(
-    {"titulo": "As Cavernas de Aço"}
-);
+    {},
+    {"_id": 0,"codigo": 0,"imagem": 0});
